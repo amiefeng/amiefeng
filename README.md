@@ -3,9 +3,9 @@
 
 ### ✦ Hi, my name is **Amie**! ✦
 
-Born & raised a New York City dweller ☁️
+Born & raised in New York City!
 
-Current undergraduate [Posse Foundation](https://www.possefoundation.org/) scholar & software engineer at Brandeis University 🎓
+Current undergraduate [Posse Foundation](https://www.possefoundation.org/) scholar & software engineer at Brandeis University. 
 
 ### A little more about me...
 ```javascript
@@ -15,11 +15,9 @@ const Amie = {
   challenge: "Pushing myself to take on new tasks to improve my skills and build off of experience."
 }
 ```
+**Email**: amiefeng@brandeis.edu
+Check out my [LinkedIn](www.linkedin.com/in/amie-feng)!
 
-### Some other fun facts
-- I like plaing violin 🎻
-- I have a pet orange tabby cat 🐈
-- My favoite ice cream flavor is coffee ☕️
 ---
 > **日本語がわかります。私の日本語の名前はエイミーです。日本語を話しましょうか！**
 
@@ -27,4 +25,4 @@ const Amie = {
 
 > 今、私はブランダイスという大学の学生です。
 
-> **2025年に、留学するために大阪市に行くつもりです。**
+> **2025年、大阪で留学しました！**
