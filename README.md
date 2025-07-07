@@ -1,5 +1,5 @@
 # About Amie
-![giphy](https://github.com/user-attachments/assets/294358b1-246d-44ad-9860-d27066d8b70c)
+<![giphy](https://github.com/user-attachments/assets/294358b1-246d-44ad-9860-d27066d8b70c)>
 
 ### ✦ Hi, my name is **Amie**! ✦
 
