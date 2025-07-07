@@ -16,6 +16,7 @@ const Amie = {
 }
 ```
 **Email**: amiefeng@brandeis.edu
+
 Check out my [LinkedIn](www.linkedin.com/in/amie-feng)!
 
 ---
