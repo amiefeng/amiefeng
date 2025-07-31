@@ -4,6 +4,7 @@
 ### ✦ Hi, my name is **Amie**! ✦
 
 ☁️ Born & raised in New York City!
+
 ❄️ Attending school in the Greater Boston area. 
 
 Current MIT Break Through Tech AI Scholar, undergraduate [Posse Foundation](https://www.possefoundation.org/) scholar & aspiring software engineer at Brandeis University. 
