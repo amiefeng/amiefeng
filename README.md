@@ -7,7 +7,7 @@
 
 ❄️ Attending school in the Greater Boston area. 
 
-Current MIT Break Through Tech AI Scholar, undergraduate [Posse Foundation](https://www.possefoundation.org/) scholar & aspiring software engineer at Brandeis University. 
+Current MIT Break Through Tech AI Fellow, undergraduate [Posse Foundation](https://www.possefoundation.org/) STEM Scholar & software engineer at Brandeis University. 
 Benjamin A. Gilman International Scholarship Alumni.
 
 ### A little more about me...
@@ -18,6 +18,8 @@ const Amie = {
   challenge: "Pushing myself to take on new tasks to improve my skills and build off of experience."
 }
 ```
+I am an aspiring software engineer aiming to continuously learning and building my skill set! 
+
 **Email**: amiefeng@brandeis.edu
 
 Check out my [LinkedIn](www.linkedin.com/in/amie-feng)!
