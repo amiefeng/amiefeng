@@ -24,6 +24,8 @@ I am an aspiring software engineer aiming to continuously learning and building 
 
 Check out my [LinkedIn](www.linkedin.com/in/amie-feng)!
 
+Fun fact: I also studied Japanese and lived in Osaka as a part of my study abroad journey!
+
 ---
 > **日本語がわかります。私の日本語の名前はエイミーです。日本語を話しましょうか！**
 
